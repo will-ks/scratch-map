@@ -1,26 +1,359 @@
 {
   "version": "1.2",
   "scratched": {
-    "world": [],
+    "world": [
+      {
+        "code": "AU",
+        "year": "",
+        "url": "",
+        "name": "Australia"
+      },
+      {
+        "code": "GB",
+        "year": "",
+        "url": "",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "FR",
+        "year": "",
+        "url": "",
+        "name": "France"
+      },
+      {
+        "code": "ES",
+        "year": "",
+        "url": "",
+        "name": "Spain"
+      },
+      {
+        "code": "PT",
+        "year": "",
+        "url": "",
+        "name": "Portugal"
+      },
+      {
+        "code": "MA",
+        "year": "",
+        "url": "",
+        "name": "Morocco"
+      },
+      {
+        "code": "IT",
+        "year": "",
+        "url": "",
+        "name": "Italy"
+      },
+      {
+        "code": "CH",
+        "year": "",
+        "url": "",
+        "name": "Switzerland"
+      },
+      {
+        "code": "DE",
+        "year": "",
+        "url": "",
+        "name": "Germany"
+      },
+      {
+        "code": "BE",
+        "year": "",
+        "url": "",
+        "name": "Belgium"
+      },
+      {
+        "code": "LU",
+        "year": "",
+        "url": "",
+        "name": "Luxembourg"
+      },
+      {
+        "code": "NL",
+        "year": "",
+        "url": "",
+        "name": "Netherlands"
+      },
+      {
+        "code": "DK",
+        "year": "",
+        "url": "",
+        "name": "Denmark"
+      },
+      {
+        "code": "SE",
+        "year": "",
+        "url": "",
+        "name": "Sweden"
+      },
+      {
+        "code": "PL",
+        "year": "",
+        "url": "",
+        "name": "Poland"
+      },
+      {
+        "code": "CZ",
+        "year": "",
+        "url": "",
+        "name": "Czech Republic"
+      },
+      {
+        "code": "AT",
+        "year": "",
+        "url": "",
+        "name": "Austria"
+      },
+      {
+        "code": "SI",
+        "year": "",
+        "url": "",
+        "name": "Slovenia"
+      },
+      {
+        "code": "HU",
+        "year": "",
+        "url": "",
+        "name": "Hungary"
+      },
+      {
+        "code": "HR",
+        "year": "",
+        "url": "",
+        "name": "Croatia"
+      },
+      {
+        "code": "LT",
+        "year": "",
+        "url": "",
+        "name": "Lithuania"
+      },
+      {
+        "code": "LV",
+        "year": "",
+        "url": "",
+        "name": "Latvia"
+      },
+      {
+        "code": "BG",
+        "year": "",
+        "url": "",
+        "name": "Bulgaria"
+      },
+      {
+        "code": "GR",
+        "year": "",
+        "url": "",
+        "name": "Greece"
+      },
+      {
+        "code": "MT",
+        "year": "",
+        "url": "",
+        "name": "Malta"
+      },
+      {
+        "code": "TR",
+        "year": "",
+        "url": "",
+        "name": "Turkey"
+      },
+      {
+        "code": "EG",
+        "year": "",
+        "url": "",
+        "name": "Egypt"
+      },
+      {
+        "code": "TZ",
+        "year": "",
+        "url": "",
+        "name": "Tanzania"
+      },
+      {
+        "code": "ZA",
+        "year": "",
+        "url": "",
+        "name": "South Africa"
+      },
+      {
+        "code": "LK",
+        "year": "",
+        "url": "",
+        "name": "Sri Lanka"
+      },
+      {
+        "code": "IN",
+        "year": "",
+        "url": "",
+        "name": "India"
+      },
+      {
+        "code": "CN",
+        "year": "",
+        "url": "",
+        "name": "China"
+      },
+      {
+        "code": "TH",
+        "year": "",
+        "url": "",
+        "name": "Thailand"
+      },
+      {
+        "code": "LA",
+        "year": "",
+        "url": "",
+        "name": "Laos"
+      },
+      {
+        "code": "VN",
+        "year": "",
+        "url": "",
+        "name": "Vietnam"
+      },
+      {
+        "code": "KH",
+        "year": "",
+        "url": "",
+        "name": "Cambodia"
+      },
+      {
+        "code": "MY",
+        "year": "",
+        "url": "",
+        "name": "Malaysia"
+      },
+      {
+        "code": "SG",
+        "year": "",
+        "url": "",
+        "name": "Singapore"
+      },
+      {
+        "code": "ID",
+        "year": "",
+        "url": "",
+        "name": "Indonesia"
+      },
+      {
+        "code": "JP",
+        "year": "",
+        "url": "",
+        "name": "Japan"
+      },
+      {
+        "code": "GL",
+        "year": "",
+        "url": "",
+        "name": "Greenland"
+      },
+      {
+        "code": "US",
+        "year": "",
+        "url": "",
+        "name": "United States of America"
+      },
+      {
+        "code": "MX",
+        "year": "",
+        "url": "",
+        "name": "Mexico"
+      },
+      {
+        "code": "GT",
+        "year": "",
+        "url": "",
+        "name": "Guatemala"
+      },
+      {
+        "code": "CR",
+        "year": "",
+        "url": "",
+        "name": "Costa Rica"
+      },
+      {
+        "code": "CO",
+        "year": "",
+        "url": "",
+        "name": "Colombia"
+      },
+      {
+        "code": "BB",
+        "year": "",
+        "url": "",
+        "name": "Barbados"
+      },
+      {
+        "code": "EC",
+        "year": "",
+        "url": "",
+        "name": "Ecuador"
+      },
+      {
+        "code": "PE",
+        "year": "",
+        "url": "",
+        "name": "Peru"
+      },
+      {
+        "code": "BO",
+        "year": "",
+        "url": "",
+        "name": "Bolivia"
+      },
+      {
+        "code": "IL",
+        "year": "",
+        "url": "",
+        "name": "Israel"
+      },
+      {
+        "code": "VA",
+        "year": "",
+        "url": "",
+        "name": "Vatican City"
+      },
+      {
+        "code": "GI",
+        "year": "",
+        "url": ""
+      }
+    ],
     "united-states-of-america": [],
     "canada": [],
     "australia": [
       {
         "code": "NSW",
         "year": "",
-        "url": ""
+        "url": "",
+        "name": "New South Wales"
       },
       {
         "code": "VIC",
         "year": "",
-        "url": ""
+        "url": "",
+        "name": "Victoria"
       }
     ],
     "france": [],
     "mexico": [],
     "japan": [],
     "spain": [],
-    "united-kingdom": [],
+    "united-kingdom": [
+      {
+        "code": "SCT",
+        "year": "",
+        "url": "",
+        "name": "Scotland"
+      },
+      {
+        "code": "ENG",
+        "year": "",
+        "url": "",
+        "name": "England"
+      }
+    ],
     "germany": [],
     "new-zealand": [],
     "brazil": [],
